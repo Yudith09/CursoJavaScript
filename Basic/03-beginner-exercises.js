@@ -23,7 +23,7 @@ let isFalse = false
 let undefineVaues
 let nullValues = null
 let symbols = Symbol("number")
-let numberBig= 7675754775455484584684658465646n;
+let numberBig = 7675754775455484584684658465646n;
 
 // 4. Imprime por consola el valor de todas las variables
 
@@ -57,12 +57,12 @@ console.log(typeof numberBig)
 name = "Dani"
 firsName = "Rodriguez"
 lastName = "Fernandez"
-number= 8
+number = 8
 decimal = 7.0
 isTrue = true
 isFalse = false
 undefineVaues
-nullValues= null
+nullValues = null
 
 // 7. A continuación, modifica los valores de las variables por otros de distinto tipo
 name = 2
@@ -87,30 +87,30 @@ const isFalses = false
 const undefineVauess = 9 // Da error si no se declara
 const nullValuess = null
 const symbolss = Symbol("number")
-const numberBigs= 7675754775455484584684658465646n;
+const numberBigs = 7675754775455484584684658465646n;
 
 // 9. A continuación, modifica los valores de las constantes
- names = "Berta"
- firsNames = 'Roberto'
- lastNames = `Cordero`
- numbers = 5
- decimals = 5.0
- isTrues = false
- isFalses = true
- undefineVauess = "undefined"
- nullValuess = 5
- symbolss = Symbol(8)
- numberBigs= "Prueba";
+names = "Berta"
+firsNames = 'Roberto'
+lastNames = `Cordero`
+numbers = 5
+decimals = 5.0
+isTrues = false
+isFalses = true
+undefineVauess = "undefined"
+nullValuess = 5
+symbolss = Symbol(8)
+numberBigs = "Prueba";
 
- console.log(names)
- console.log(firsNames)
- console.log(lastNames)
- console.log(numbers)
- console.log(decimals)
- console.log(undefineVauess)
- console.log(nullValues)
- console.log(symbols)
- console.log(numberBigs)
+console.log(names)
+console.log(firsNames)
+console.log(lastNames)
+console.log(numbers)
+console.log(decimals)
+console.log(undefineVauess)
+console.log(nullValues)
+console.log(symbols)
+console.log(numberBigs)
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarser
 // const undefineVauess = 9 // Da error si no se declara
